@@ -1,0 +1,15 @@
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.csproj.AssemblyReference.cache
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.AssemblyInfoInputs.cache
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.AssemblyInfo.cs
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.csproj.CoreCompileInputs.cache
+C:\Users\templ\source\repos\USRS46\421\421\bin\Debug\net6.0\421.exe
+C:\Users\templ\source\repos\USRS46\421\421\bin\Debug\net6.0\421.deps.json
+C:\Users\templ\source\repos\USRS46\421\421\bin\Debug\net6.0\421.runtimeconfig.json
+C:\Users\templ\source\repos\USRS46\421\421\bin\Debug\net6.0\421.dll
+C:\Users\templ\source\repos\USRS46\421\421\bin\Debug\net6.0\421.pdb
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.dll
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\refint\421.dll
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.pdb
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\421.genruntimeconfig.cache
+C:\Users\templ\source\repos\USRS46\421\421\obj\Debug\net6.0\ref\421.dll
